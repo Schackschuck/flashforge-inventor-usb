@@ -1,0 +1,4 @@
+recebidos/
+*.log
+__pycache__/
+ultimo_original_orca.gcode
